@@ -6,8 +6,8 @@
 #include <Ticker.h>
 
 ////////////////////////////////////////////////////////
-#define SSID            "WLAN11"
-#define SSIDPWD         "0a1b2c3d4e"
+#define SSID            "WiFi"
+#define SSIDPWD         "P@ssw0rdWiFi"
 //WIFI Settings
 //byte ip[]      = { 192, 168, 1, 126};
 //byte gateway[] = { 192, 168, 1, 1 };
